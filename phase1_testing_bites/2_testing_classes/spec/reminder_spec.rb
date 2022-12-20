@@ -1,3 +1,4 @@
+#example
 require "reminder"
 
 Rspec.describe Reminder do
