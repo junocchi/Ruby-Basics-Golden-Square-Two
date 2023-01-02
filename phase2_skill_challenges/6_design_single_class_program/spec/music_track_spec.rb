@@ -24,5 +24,4 @@ RSpec.describe MusicTrack do
       expect(music_track.list).to eq ["Beautiful Day", "Yellow"]
     end
   end
-
 end
